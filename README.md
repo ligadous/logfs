@@ -1,0 +1,2 @@
+# logfs
+Simple Fuse FS
